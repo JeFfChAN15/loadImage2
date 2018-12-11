@@ -10,3 +10,4 @@ shine=loadImage("shine.jpg");
 void draw() {
   image(img,300,50);
 image(shine,mouseX,mouseY,200,100);
+}
